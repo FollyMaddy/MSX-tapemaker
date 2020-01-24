@@ -5,6 +5,8 @@ While making these scripts my sony cassette-recorder tcm-828 broke.
 
 So the equations for "WINDING TIME" in the BASIC menu can be wrong and are not fully tested.
 
+Only 8kb roms can be used. (equations for 16kb roms are "off" in the menu-maker script)
+
 So for now these scripts are "as is", without any support.
 
 
