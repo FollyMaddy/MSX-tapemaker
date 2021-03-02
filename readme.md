@@ -34,7 +34,7 @@ After that press PLAY and ENTER
 If all goes well, your program wll be loaded
 
 
-The actual scripts depend op java, msx2cas and sox
+The actual scripts depend on java, msx2cas and sox
 
 After download, extract the zip.
 
